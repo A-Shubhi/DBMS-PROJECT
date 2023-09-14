@@ -37,7 +37,7 @@ $myDB = "research";
 
 <h3> Working of the website - </h3>
 
-https://github.com/A-Shubhi/DBMS-PROJECT/assets/95265187/7d7d69ab-dfb7-4ca7-bfc6-97aef831c8c8
+https://github.com/A-Shubhi/DBMS-PROJECT/assets/95265187/b6f1cbc0-0c04-4ec5-b05a-872ee09fe28c
 
 
 <h3>Pagewise Specificatons: </h3> <br>
