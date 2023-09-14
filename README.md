@@ -35,6 +35,11 @@ $username = "dbms";<br>
 $password = "project";<br>
 $myDB = "research";
 
+<h3> Working of the website - </h3>
+
+https://github.com/A-Shubhi/DBMS-PROJECT/assets/95265187/7d7d69ab-dfb7-4ca7-bfc6-97aef831c8c8
+
+
 <h3>Pagewise Specificatons: </h3> <br>
 <h4>
 1. <b> Home </b> :-  </h4>
