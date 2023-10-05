@@ -78,7 +78,7 @@ Preview :<br> <img width="800" height= '500' alt="Research" src="https://github.
 <h3 > 4. <b> Query </b> :- Contains Research Informations related to Faculty, Year and Domain <br> </h3>
 Preview :<br> <img width="800" height= '500' alt="Query" src="https://github.com/SHIVAM200219/DBMS-PROJECT/assets/95133586/fbbc5f28-812f-474b-bdd3-a6c0c7c600b6">
 <br>
-<img width="800" height= '500' alt="Correlation plot" src="https://github.com/A-Shubhi/DBMS-PROJECT/assets/95265187/ee52ae9e-84d9-48c5-aea2-e69f4e5f9a9f">
+<!-- <img width="800" height= '500' alt="Correlation plot" src="https://github.com/A-Shubhi/DBMS-PROJECT/assets/95265187/ee52ae9e-84d9-48c5-aea2-e69f4e5f9a9f"> -->
 
 <br> Overview : <br>
             (a) One can search for a faculty, will get following results: <br>
